@@ -32,6 +32,7 @@ This script:
 - - -
 ### Tech Stack
 * Python
+* Jupyter Notebook
 ### User Instructions
 * Clone the repository: git clone https://github.com/DarrylB32/Matplotlib-Cancer_Pharmaceutical_Testing_Analysis_Visualizations
 * Open and execute [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) file.
