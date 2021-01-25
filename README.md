@@ -1,5 +1,5 @@
 # Matplotlib-Cancer_Pharmaceutical_Testing_Analysis_Visualizations
-This [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) script examines data from an animal study. In this study, 249 mice identified with SCC tumor growth and were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of the drug, Capomulin, versus the other treatment regimens. 
+This [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) script examines and visualizes data from an animal study. In this study, 249 mice identified with SCC tumor growth and were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of the drug, Capomulin, versus the other treatment regimens. 
 
 This script:
 * Removes any duplicated time points for each mouse ID
@@ -34,7 +34,7 @@ This script:
 * Python
 * Jupyter Notebook
 ### User Instructions
-* Clone the repository: git clone https://github.com/DarrylB32/Matplotlib-Cancer_Pharmaceutical_Testing_Analysis_Visualizations
+* Clone the repository: git clone https://github.com/DarrylB32/Matplotlib-Cancer_Pharmaceutical_Testing_Analysis_Visualizations.git 
 * Open and execute [Pharmaceutical_Analysis](Pharmaceutical_Analysis.ipynb) file.
  
 ### Additional Notes
